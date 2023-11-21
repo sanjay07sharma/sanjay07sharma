@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay07sharma&"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjay07sharma&show_icons=true&theme=radical" widht="50%"/> <img src="https://github-readme-stats.vercel.app/api?username=shsa-odoo&show_icons=true&theme=radical" widht="50%"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay07sharma&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shsa-odoo&show_icons=true&theme=radical" width="48%"/>
+</p>
