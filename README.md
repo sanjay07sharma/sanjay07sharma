@@ -33,8 +33,6 @@ Here's a bit more about me and my journey as a developer.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay07sharma&layout=compact" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay07sharma" alt="GitHub Streak"/>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sanjay07sharma&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=shsa-odoo&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
